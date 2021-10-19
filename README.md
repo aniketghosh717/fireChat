@@ -1,1 +1,1 @@
-# fireChat application
+# fire_Chat application
