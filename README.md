@@ -1,3 +1,2 @@
 # fire_Chat application
-########################
 
